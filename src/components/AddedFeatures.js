@@ -20,3 +20,4 @@ const AddedFeatures = props => {
 };
 
 export default AddedFeatures;
+
